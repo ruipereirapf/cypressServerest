@@ -23,7 +23,7 @@ Feature: ServeRest - Login
         Then I should be presented with successful message
 
     # @register_rui_admin
-    # Scenario: Register Ruiadmin
+    # Scenario: Register Rui_admin
     #     And I type specific username "rui_admin"
     #     And I type specific email "rui_admin@admin.com"
     #     And I type specific password "rui_admin"
@@ -32,11 +32,10 @@ Feature: ServeRest - Login
     #     Then I should be presented with successful message
 
     # @register_rui_user
-    # Scenario: Register Ruiadmin
+    # Scenario: Register Rui_user
     #     And I type specific username "rui_user"
     #     And I type specific email "rui_user@user.com"
     #     And I type specific password "rui_user"
-    #     And I click on the register as admin button
     #     And I click on the register user button
     #     Then I should be presented with successful message
 
