@@ -1,31 +1,57 @@
 /// <reference types="cypress" />
 import { When, Then } from "@badeball/cypress-cucumber-preprocessor";
-import { faker } from '@faker-js/faker';
+import register_PO from "../page_objects/register_PO";
 
-let random_username = faker.internet.userName();
-let random_password = faker.internet.password();
-let random_email = faker.internet.email({ firstName: random_username })
+const register_Page = new register_PO();
 
 When('I type username', () => {
-    cy.get('[data-testid="nome"]').type(random_username);
+    register_Page.type_userName();
 })
 
 When('I type email', () => {
-    cy.get('[data-testid="email"]').type(random_email);
+    register_Page.type_email();
 })
 
 When('I type password', () => {
-    cy.get('[data-testid="password"]').type(random_password);
+    register_Page.type_password();
 })
 
 When('I click on the register as admin button', () => {
-    cy.get('.form-check-label').click();
+    register_Page.click_asAdmin_button();
 })
 
 When('I click on the register user button', () => {
-    cy.get('[data-testid="cadastrar"]').click();
+    register_Page.click_register_user_button();
 })
 
 Then('I should be presented with successful message', () =>{
-    cy.get('.alert-link').should('contain', 'Cadastro realizado com sucesso')
+    register_Page.valid_submission_alert();
 })
+
+When('I type specific username {string}', (username) =>{
+    register_Page.type_userName(username);
+})
+
+When('I type specific email {string}', (email) =>{
+    register_Page.type_email(email);
+})
+
+When('I type specific password {string}', (password) =>{
+    register_Page.type_password(password);
+})
+
+// // When('I type username {string}', (username) => {
+// //     register_Page.type_userName(username);
+// // })
+
+// // When('I type email {string}', (email) => {
+// //     register_Page.type_email(email);
+// // })
+
+// // When('I type password {string}', (password) => {
+// //     register_Page.type_password(password);
+// // })
+
+// // Then('I should be presented with {string}', (message) => {
+// //     register_Page.invalid_data_alert(message);
+// // })
