@@ -3,21 +3,21 @@
 ![Cypress](https://img.shields.io/badge/Cypress-13.12.0-brightgreen)
 ![Serverest](https://img.shields.io/badge/Serverest-v1.0-blue)
 
-## Index
+## 📑 Table of Contents
 
-1. [Project Description](#-project-description)
-2. [Repository Contents](#-repository-contents)
-3. [Project Links](#-project-links)
-4. [About the Project](#-about-the-project)
+- [Project Description](#-project-description)
+- [Repository Contents](#-repository-contents)
+- [Project Links](#-project-links)
+- [About the Project](#-about-the-project)
    - [Frontend E2E Testing](#-frontend-e2e-testing)
    - [API Requests Testing](#-api-requests-testing)
-5. [Repository Purpose](#-repository-purpose)
-6. [Getting Started](#-getting-started)
+- [Repository Purpose](#-repository-purpose)
+- [Getting Started](#-getting-started)
    - [Additional Scripts](#additional-scripts)
    - [Project Structure](#-project-structure)
-7. [Dependencies](#-dependencies)
-8. [DevDependencies](#-devdependencies)
-9. [Contact Information](#-contact-information)
+- [Dependencies](#-dependencies)
+- [DevDependencies](#-devdependencies)
+- [Contact Information](#-contact-information)
 
 ## 📄 Project Description
 
