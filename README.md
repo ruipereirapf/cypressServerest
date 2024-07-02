@@ -2,6 +2,7 @@
 
 ![Cypress](https://img.shields.io/badge/Cypress-13.12.0-brightgreen)
 ![Serverest](https://img.shields.io/badge/Serverest-v1.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-v22.3.0-green)
 
 ## 📑 Table of Contents
 
