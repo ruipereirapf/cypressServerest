@@ -89,15 +89,15 @@ The project structure will be added in the future as the project evolves.
 
 ## 📦 Dependencies
 
-- `@badeball/cypress-cucumber-preprocessor`: ^20.1.0
+- [`@badeball/cypress-cucumber-preprocessor`](https://www.npmjs.com/package/@badeball/cypress-cucumber-preprocessor): ^20.1.0
 
 ## 🛠️ DevDependencies
 
-- `@bahmutov/cypress-esbuild-preprocessor`: ^2.2.1
-- `@faker-js/faker`: ^8.4.1
-- `cypress`: ^13.12.0
-- `cypress-xpath`: ^2.0.1
-- `ts-loader`: ^9.5.1
+- [`@bahmutov/cypress-esbuild-preprocessor`](https://www.npmjs.com/package/@bahmutov/cypress-esbuild-preprocessor): ^2.2.1
+- [`@faker-js/faker`](https://www.npmjs.com/package/@faker-js/faker): ^8.4.1
+- [`cypress`](https://www.npmjs.com/package/cypress): ^13.12.0
+- [`cypress-xpath`](https://www.npmjs.com/package/cypress-xpath): ^2.0.1
+- [`ts-loader`](https://www.npmjs.com/package/ts-loader): ^9.5.1
 
 ## 📞 Contact Information
 
