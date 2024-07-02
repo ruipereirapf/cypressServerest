@@ -14,7 +14,7 @@
    - [API Requests Testing](#-api-requests-testing)
 - [Repository Purpose](#-repository-purpose)
 - [Getting Started](#-getting-started)
-   - [Project Structure](#-project-structure)
+- [Project Structure](#-project-structure)
 - [Dependencies](#-dependencies)
 - [DevDependencies](#-devdependencies)
 - [Contact Information](#-contact-information)
@@ -82,8 +82,8 @@ To get started with this project, follow these steps:
     ```sh
     npx cypress run
     ```
-    
-### Project Structure
+
+## 🗂 Project Structure
 
 The project structure will be added in the future as the project evolves.
 
