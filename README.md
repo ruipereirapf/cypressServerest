@@ -14,7 +14,6 @@
    - [API Requests Testing](#-api-requests-testing)
 - [Repository Purpose](#-repository-purpose)
 - [Getting Started](#-getting-started)
-   - [Additional Scripts](#additional-scripts)
    - [Project Structure](#-project-structure)
 - [Dependencies](#-dependencies)
 - [DevDependencies](#-devdependencies)
@@ -83,14 +82,7 @@ To get started with this project, follow these steps:
     ```sh
     npx cypress run
     ```
-
-### Additional Scripts
-
-- **Run specific test suite**:
-    ```sh
-    npx cypress run --spec "cypress/integration/tests/your_test_file.js"
-    ```
-
+    
 ### Project Structure
 
 The project structure will be added in the future as the project evolves.
