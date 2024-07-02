@@ -101,7 +101,7 @@ The project structure will be added in the future as the project evolves.
 
 ## 📞 Contact Information
 
-For any questions or collaborations, feel free to contact me on [LinkedIn](www.linkedin.com/in/ruifernpereira).
+For any questions or collaborations, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ruifernpereira/).
 
 ---
 
