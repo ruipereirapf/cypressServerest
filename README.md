@@ -3,6 +3,22 @@
 ![Cypress](https://img.shields.io/badge/Cypress-13.12.0-brightgreen)
 ![Serverest](https://img.shields.io/badge/Serverest-v1.0-blue)
 
+## Index
+
+1. [Project Description](#-project-description)
+2. [Repository Contents](#-repository-contents)
+3. [Project Links](#-project-links)
+4. [About the Project](#-about-the-project)
+   - [Frontend E2E Testing](#-frontend-e2e-testing)
+   - [API Requests Testing](#-api-requests-testing)
+5. [Repository Purpose](#-repository-purpose)
+6. [Getting Started](#-getting-started)
+   - [Additional Scripts](#additional-scripts)
+   - [Project Structure](#-project-structure)
+7. [Dependencies](#-dependencies)
+8. [DevDependencies](#-devdependencies)
+9. [Contact Information](#-contact-information)
+
 ## 📄 Project Description
 
 This repository contains test automation scripts developed using Cypress for the [Serverest](https://front.serverest.dev/login) webpage. The project focuses on both front-end end-to-end (E2E) testing and API requests testing, ensuring the functionality and reliability of the Serverest platform.
