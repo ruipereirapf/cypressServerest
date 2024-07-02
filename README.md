@@ -45,4 +45,4 @@ To get started with this project, follow these steps:
 
 ## Contact Information
 
-For any questions or collaborations, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+For any questions or collaborations, feel free to contact me on [LinkedIn](https://github.com/ruipereirapf).
