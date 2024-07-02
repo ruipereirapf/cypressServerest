@@ -22,4 +22,9 @@
     And I click on the login button
     And I click on the logout button
     Then I should be redirected to the main page
+
+#VER MELHOR TESTES NEGATIVOS
+    # # Scenario: Login with empty credentials
+    # # And I click on the login button
+    # # Then I should be presented with empty textfields errors
     
