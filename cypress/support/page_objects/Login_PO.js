@@ -14,7 +14,7 @@ class Login_PO extends Base_PO {
     }
 
     clickOn_newUser_Button(){
-        this.elements.register_NewUser_Button.click();
+        this.elements.register_NewUser_Button().click();
     }
 
     login_as_admin(){
