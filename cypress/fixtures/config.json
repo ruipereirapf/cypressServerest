@@ -1,3 +1,4 @@
 {
-    "baseUrl" : "https://front.serverest.dev/login"
+    "baseUrl" : "https://front.serverest.dev/login",
+    "cartPage" : "https://front.serverest.dev/carrinho"
 }

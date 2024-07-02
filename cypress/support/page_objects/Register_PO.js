@@ -5,7 +5,7 @@ import { faker } from '@faker-js/faker';
 import Base_PO from './Base_PO';
 
 
-class register_PO extends Base_PO{
+class Register_PO extends Base_PO{
     elements = {
         userName_textField : () => cy.get('[data-testid="nome"]'),
         email_textField : () => cy.get('[data-testid="email"]'),
@@ -44,4 +44,4 @@ class register_PO extends Base_PO{
         this.elements.missing_data_alert().contains(message);
     }
 }
-export default register_PO;
+export default Register_PO;

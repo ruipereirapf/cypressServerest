@@ -1,8 +1,8 @@
 /// <reference types="cypress" />
 import { When, Then } from "@badeball/cypress-cucumber-preprocessor";
-import register_PO from "../page_objects/Register_PO";
+import Register_PO from "../page_objects/Register_PO";
 
-const register_Page = new register_PO();
+const register_Page = new Register_PO();
 
 When('I type username', () => {
     register_Page.type_userName();
