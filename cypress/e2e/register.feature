@@ -39,16 +39,16 @@ Feature: ServeRest - Login
     # #     And I click on the register user button
     # #     Then I should be presented with successful message
 
-# # @register_invalid_data
-# # Scenario Outline: Register User With Invalid Data
-# #     And I type username '<username>'
-# #     And I type email '<email>'
-# #     And I type password '<password>'
-# #     And I click on the register user button
-# #     Then I should be presented with '<message>'
+# # # @register_invalid_data
+# # # Scenario Outline: Register User With Invalid Data
+# # #     And I type username '<username>'
+# # #     And I type email '<email>'
+# # #     And I type password '<password>'
+# # #     And I click on the register user button
+# # #     Then I should be presented with '<message>'
 
-# #     Examples:
-# #         | username | email          | password | message                |
-# #         |          | test@email.com | test     | Nome é obrigatório     |
-# #         | test     | test@email.com |          | Password é obrigatório |
-# #         | test     |                | test     | Email é obrigatório    |
+# # #     Examples:
+# # #         | username | email          | password | message                |
+# # #         |          | test@email.com | test     | Nome é obrigatório     |
+# # #         | test     | test@email.com |          | Password é obrigatório |
+# # #         | test     |                | test     | Email é obrigatório    |

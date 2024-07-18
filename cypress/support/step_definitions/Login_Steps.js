@@ -21,7 +21,7 @@ When('I click on the login button', () => {
     login_page.click_login();
 })
 
-Then('I should enter the admin webpage', () => {
+Then('I validate I logged in with the correct account', () => {
     login_page.validate_admin_login();
 })
 
