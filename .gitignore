@@ -1,0 +1,2 @@
+# Ignore cypress.env.json file
+cypress.env.json
