@@ -104,7 +104,7 @@ The following features are planned to be added in future updates to enhance the 
 
 - [`@bahmutov/cypress-esbuild-preprocessor`](https://www.npmjs.com/package/@bahmutov/cypress-esbuild-preprocessor): ^2.2.1
 - [`@faker-js/faker`](https://www.npmjs.com/package/@faker-js/faker): ^8.4.1
-- [`cypress`](https://www.npmjs.com/package/cypress): ^13.12.0
+- [`cypress`](https://www.npmjs.com/package/cypress): ^13.13.1
 - [`cypress-xpath`](https://www.npmjs.com/package/cypress-xpath): ^2.0.1
 - [`ts-loader`](https://www.npmjs.com/package/ts-loader): ^9.5.1
 
