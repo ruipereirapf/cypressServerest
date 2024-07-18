@@ -15,6 +15,7 @@
 - [Repository Purpose](#-repository-purpose)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
+- [Future Features](#-future-features)
 - [Dependencies](#-dependencies)
 - [DevDependencies](#-devdependencies)
 - [Contact Information](#-contact-information)
@@ -86,6 +87,14 @@ To get started with this project, follow these steps:
 ## 🗂 Project Structure
 
 The project structure will be added in the future as the project evolves.
+
+## 🌟 Future Features
+
+The following features are planned to be added in future updates to enhance the project's capabilities:
+
+- **API Tests**: Comprehensive testing of Serverest's API endpoints.
+- **GitHub Actions**: Integration for continuous integration and continuous deployment (CI/CD) pipelines.
+- **Reports**: Detailed test reports for better analysis and debugging.
 
 ## 📦 Dependencies
 
