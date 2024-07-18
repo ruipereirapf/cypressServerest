@@ -8,7 +8,7 @@
     Scenario: Login with admin user
     And I type the admin email and password
     And I click on the login button
-    Then I should enter the admin webpage
+    Then I validate I logged in with the correct account
 
     @login_ruiuser
     Scenario: Login with normal user
